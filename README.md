@@ -16,42 +16,42 @@ this app perhaps can help Imani Iqra' Kindergarten to teach reading easly with a
 
 ### all pages
 <div align='center'>
-<img src='https://github.com/Syamabbas/aplikasi-belajar-membaca/blob/54687f83b2d17df223cb52acf439cb077c60f44e/all.png'/>
+<img src='https://github.com/Syamabbas/app-belajar-membaca/blob/f62aa5e68d38d293b4c7a0cbd2f69707a7808f1b/img/all.png'/>
 
 </div>
 
 ### home page
 <div align='center'>
-<img src='https://github.com/Syamabbas/aplikasi-belajar-membaca/blob/54687f83b2d17df223cb52acf439cb077c60f44e/home.png'/>
+<img src='https://github.com/Syamabbas/app-belajar-membaca/blob/f62aa5e68d38d293b4c7a0cbd2f69707a7808f1b/img/home.png'/>
 
 </div>
 
 ### settings
 <div align='center'>
-<img src='https://github.com/Syamabbas/aplikasi-belajar-membaca/blob/54687f83b2d17df223cb52acf439cb077c60f44e/settings.png'/>
+<img src='https://github.com/Syamabbas/app-belajar-membaca/blob/f62aa5e68d38d293b4c7a0cbd2f69707a7808f1b/img/settings.png'/>
 
 </div>
 
 ### menus
 <div align='center'>
-<img src='https://github.com/Syamabbas/aplikasi-belajar-membaca/blob/54687f83b2d17df223cb52acf439cb077c60f44e/menu.png'/>
+<img src='https://github.com/Syamabbas/app-belajar-membaca/blob/f62aa5e68d38d293b4c7a0cbd2f69707a7808f1b/img/menu.png'/>
 
 </div>
 
 ### learn
 <div align='center'>
-<img src='https://github.com/Syamabbas/aplikasi-belajar-membaca/blob/54687f83b2d17df223cb52acf439cb077c60f44e/learn.png'/>
+<img src='https://github.com/Syamabbas/app-belajar-membaca/blob/f62aa5e68d38d293b4c7a0cbd2f69707a7808f1b/img/learn.png'/>
 
 </div>
 
 ### play
 <div align='center'>
-<img src='https://github.com/Syamabbas/aplikasi-belajar-membaca/blob/54687f83b2d17df223cb52acf439cb077c60f44e/play.png'/>
+<img src='https://github.com/Syamabbas/app-belajar-membaca/blob/f62aa5e68d38d293b4c7a0cbd2f69707a7808f1b/img/play.png'/>
 
 </div>
 
 ### score
 <div align='center'>
-<img src='https://github.com/Syamabbas/aplikasi-belajar-membaca/blob/54687f83b2d17df223cb52acf439cb077c60f44e/score.png'/>
+<img src='https://github.com/Syamabbas/app-belajar-membaca/blob/f62aa5e68d38d293b4c7a0cbd2f69707a7808f1b/img/score.png'/>
 
 </div>
